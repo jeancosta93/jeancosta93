@@ -1,4 +1,4 @@
-# 💫 Olá =D
+# 💫 Hello World =D
 🔭 Estudando Lógica e Algoritmo no momento.<br>🤝 Estou aberto a novas sugestões para aprendizado.<br>🌱 Atualmente utilizando ferramentas para Mobile.<br>💬 Java / Kotlin / Banco de Dados e etc.<br>⚡ Guarulhos - SP.
 
 
