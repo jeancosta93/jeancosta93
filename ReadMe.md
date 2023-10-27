@@ -1,5 +1,5 @@
 # 💫 Hello World =D
-🔭 Estudando Desenvolvimento Mobile Android no momento.<br>🤝 Estou aberto a novas sugestões para aprendizado.<br>🌱 Atualmente utilizando ferramentas para Mobile.<br>💬 Java / Kotlin / Banco de Dados e etc.<br>⚡ Guarulhos - SP.
+🔭 Estudando Backend em Java no momento.<br>🤝 Estou aberto a novas sugestões para aprendizado.<br>🌱 Atualmente utilizando ferramentas IntelliJ, Android Studio (Mobile).<br>💬 Java / Kotlin / Banco de Dados e etc.<br>⚡ Guarulhos - SP.
 
 
 ## 🌐 Socials:
