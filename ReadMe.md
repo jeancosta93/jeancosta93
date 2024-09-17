@@ -1,5 +1,5 @@
 # 💫 Hello World =D
-🔭 Estudando Backend em PHP no momento.<br>🤝 Estou aberto a novas sugestões para aprendizado.<br>🌱 Atualmente focado em desenvolver aplicações web .<br>💬 PHP / Laravel / Banco de Dados e etc.<br>⚡ Guarulhos - SP.
+🔭 Estudando Backend em PHP no momento.<br>🤝 Estou aberto a novas sugestões para aprendizado.<br>🌱 Atualmente focado em desenvolver aplicações web .<br>💬 PHP / Laravel / Banco de Dados.<br>⚡ Guarulhos - SP.
 
 
 ## 🌐 Socials:
